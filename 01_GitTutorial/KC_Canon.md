@@ -8,7 +8,6 @@ It seems that GitHub only works to text file, so I cannot use it on doing group 
 
 Sometimes branches become confusing.
 
-
 3.At least one question
 
 Sometimes when I tried to merge into current branch, It shows "this branch is up to date with (branch name)", while in history it seems that two branches have different content.
